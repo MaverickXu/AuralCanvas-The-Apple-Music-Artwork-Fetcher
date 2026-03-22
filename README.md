@@ -1,4 +1,4 @@
-# AuralCanvas - The Apple Music Artwork Fetcher
+# AuralCanvas - Apple Music 专辑封面下载工具
 
 <p align="center">
   <img src="docs/note.png" width="120" height="120" alt="AuralCanvas Logo">
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/O5O81QNNWN" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="在 Ko-fi 上支持我">
   </a>
 </p>
 
@@ -21,20 +21,19 @@
 **AuralCanvas** is a powerful, lightweight web tool designed for music enthusiasts and collectors. It allows you to easily fetch and download high-quality artworks from Apple Music, including static covers and 4K animated covers.
 
 ### ✨ Key Features
-- **High-Resolution Covers**: Access standard, high-res (up to 5000x5000), and original source assets.
-- **Animated Artworks**: Download 4K animated covers (MP4 format) directly from Apple Music.
-- **Smart Search**: Search by album, artist, or paste Apple Music URLs.
-- **Multi-Region Support**: Switch between 10+ regions to find region-specific content.
-- **Comprehensive Entities**: Supports Albums, Songs, Playlists, Artists, Music Videos, Radio Stations, and Curators.
-- **Mobile Support**: Optimized for mobile browsers on iOS and Android.
-- **Modern UI**: Clean, responsive design with Dark Mode and multilingual support (EN, ZH, JA).
-- **Performance**: Built-in caching for fast responses.
+- **High Resolution**: Get ultra-high-resolution album covers and animated covers.
+- **Animated Artwork**: Download 4K animated artwork.
+- **Search**: Search by keyword or URL.
+- **No Registration Required**: Access directly from Apple Music servers.
 
 ### 🌐 Official Websites
 - [auralcanvas.xyz](https://auralcanvas.xyz)
 - [coverfetcher.xyz](https://coverfetcher.xyz)
 
-> **Note**: These websites currently only support **IPv6**. If you cannot access them, please try using your **mobile data** or a network that supports IPv6.
+### ⚡ How It Works
+1. **Search** — Enter keywords or paste an Apple Music link.
+2. **Select Artwork** — Choose from static covers, banners, or motion artworks.
+3. **Download High-Res** — Save uncompressed 4K artwork directly to your device.
 
 ### 📸 User Guide
 
@@ -43,13 +42,13 @@
 - **Language Switcher**: Toggle between English, Chinese, and Japanese at the top right.
 - **Theme Toggle**: Switch between System, Light, and Dark modes.
 
-![Main Interface](docs/screenshots/main_interface_en.jpeg)
+![Main Interface](docs/screenshots/main_interface_en.png)
 
 #### ⌨️ 2. Search & Fetch
 - **Keyword Search**: Type the name of an album, artist, or song.
 - **Direct Link Fetching**: Paste an Apple Music link (e.g., `https://music.apple.com/...`).
 
-![Search Results](docs/screenshots/search_results_en.jpeg)
+![Search Results](docs/screenshots/search_results_en.png)
 
 #### 🖼️ 3. Comprehensive Entity Support
 Whether you're looking for an album or a music video, we've got you covered:
@@ -85,7 +84,7 @@ If you find this tool helpful, consider supporting the project:
 
 <p align="left">
   <a href="https://ko-fi.com/O5O81QNNWN" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="在 Ko-fi 上支持我">
   </a>
 </p>
 
@@ -106,20 +105,19 @@ This project is for educational and personal use only. All music artworks and re
 **AuralCanvas** 是一款专为音乐爱好者和收藏者打造的轻量级工具。通过它，您可以轻松获取 Apple Music 上的高质量视觉资源，包括静态封面以及 4K 动态封面。
 
 ### ✨ 核心功能
-- **高清封面**：支持获取标准、高清（最高 5000x5000）乃至未经压缩的原始素材。
-- **动态封面下载**：提取并下载 Apple Music 官方 4K 动态封面（MP4 格式）。
-- **智能双模搜索**：支持关键词搜索或直接粘贴 Apple Music 链接。
-- **多地区切换**：支持 10 多个主流国家/地区，轻松查找地区限定封面。
-- **全实体覆盖**：支持专辑、单曲、歌单、艺人、音乐视频 (MV)、电台及策展人。
-- **移动端优化**：针对 iOS 和 Android 移动端浏览器进行了适配。
-- **简洁 UI 设计**：支持深色模式、响应式布局及多语言切换（中、英、日）。
+- **高清封面**：获取超高清专辑封面和动态封面。
+- **动态封面**：下载 4K 动态封面。
+- **智能搜索**：支持关键词搜索或直接粘贴 Apple Music 链接。
+- **无需注册**：直接从 Apple Music 服务器获取资源。
 
 ### 🌐 官方网址
 - [auralcanvas.xyz](https://auralcanvas.xyz)
 - [coverfetcher.xyz](https://coverfetcher.xyz)
 
-> [!NOTE]
-> 目前站点仅支持 **IPv6** 访问。若无法打开，请尝试切换至 **移动网络（4G/5G）** 或确保您的网络环境支持 IPv6。
+### ⚡ 使用流程
+1. **搜索** — 输入关键词或粘贴 Apple Music 链接。
+2. **选择封面** — 从静态封面、横幅或动态封面中选择您需要的资源。
+3. **下载高清资源** — 直接将无损、4K 分辨率的封面保存到您的设备。
 
 ### 📸 使用指南
 
@@ -128,13 +126,13 @@ This project is for educational and personal use only. All music artworks and re
 - **语言切换**：右上角可快速切换语言。
 - **主题切换**：支持跟随系统、浅色或深色模式。
 
-![主界面](docs/screenshots/main_interface_zh.jpeg)
+![主界面](docs/screenshots/main_interface_zh.png)
 
 #### ⌨️ 2. 搜索与获取
 - **关键词搜索**：输入专辑名、艺人或歌曲。
 - **链接直接获取**：直接粘贴 Apple Music 链接（如 `https://music.apple.com/...`）。
 
-![搜索结果](docs/screenshots/search_results_zh.jpeg)
+![搜索结果](docs/screenshots/search_results_zh.png)
 
 #### 🖼️ 3. 丰富的实体支持
 无论您需要哪种类型的音乐素材，我们都能提供支持：
@@ -149,7 +147,7 @@ This project is for educational and personal use only. All music artworks and re
   ![MV搜索结果](docs/screenshots/entity_mv_zh.jpeg)
 
 #### 📥 4. 下载中心
-- **高质量静态封面**：提供标准 JPG、高清 PNG 、横幅PNG以及 **原始源文件** 下载，满足专业收藏需求。
+- **高质量静态封面**：提供标准 JPG、高清 PNG、横幅 PNG 以及 **原始源文件** 下载，满足专业收藏需求。
 - **4K 动态封面**：若该项目支持动态效果，您可以直接下载 4K 分辨率的 MP4 视频。
 - **快速链接**：提供直接的图片 URL，方便分享。
 
@@ -160,7 +158,6 @@ AuralCanvas 在手机端拥有流畅的体验。
 > **浏览器建议**：为了获得最佳体验，我们建议在 iOS 和 Android 端使用 **Google Chrome** 或 **夸克浏览器**。
 > **注意**：由于浏览器限制，**Safari** 用户可能无法直接下载动态封面（MP4 格式）。
 
-
 ---
 
 ### 💰 运营与支持
@@ -170,7 +167,7 @@ AuralCanvas 在手机端拥有流畅的体验。
 
 <p align="left">
   <a href="https://ko-fi.com/O5O81QNNWN" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="在 Ko-fi 上支持我">
   </a>
 </p>
 
