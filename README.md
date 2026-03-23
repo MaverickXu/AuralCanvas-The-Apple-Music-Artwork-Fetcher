@@ -38,7 +38,7 @@
 ### 📸 User Guide
 
 #### 🔍 1. The Main Interface
-- **Region Selector**: Tap the globe icon to the right of the search box to switch between Apple Music storefronts (e.g., US, China, Japan) to access region-specific content.
+- **Region Selector**: Tap the globe icon to the right of the search box to switch between Apple Music storefronts. Supported regions include: US, UK, China, Japan, Germany, France, Canada, Australia, Hong Kong, Taiwan, and South Korea.
 - **Language Switcher**: Toggle between English, Chinese, and Japanese at the top right.
 - **Theme Toggle**: Switch between System, Light, and Dark modes.
 
@@ -65,6 +65,10 @@ Whether you're looking for an album or a music video, we've got you covered:
 #### 📥 4. The Download Center
 - **High-Quality Static Covers**: Choose between standard JPG, high-res PNG, Banner PNG, or the **Original Source** file.
 - **4K Animated Covers**: Download motion artwork in 4K MP4 format for supported albums.
+
+> [!TIP]
+> **Recommended**: After downloading motion artwork, import it into video editing software like CapCut and re-export. This avoids compatibility issues with some players and ensures smooth playback.
+
 - **Quick Links**: Direct URLs for easy sharing.
 
 #### 📱 5. Mobile & Browser Recommendations
@@ -122,7 +126,7 @@ This project is for educational and personal use only. All music artworks and re
 ### 📸 使用指南
 
 #### 🔍 1. 主界面介绍
-- **地区选择**：点击搜索框右侧的地球图标可切换 Apple Music 店面（如中国、美国、日本），以获取不同地区的内容。
+- **地区选择**：点击搜索框右侧的地球图标可切换 Apple Music 店面。支持地区包括：美国、英国、中国、日本、德国、法国、加拿大、澳大利亚、香港、台湾、韩国。
 - **语言切换**：右上角可快速切换语言。
 - **主题切换**：支持跟随系统、浅色或深色模式。
 
@@ -149,6 +153,10 @@ This project is for educational and personal use only. All music artworks and re
 #### 📥 4. 下载中心
 - **高质量静态封面**：提供标准 JPG、高清 PNG、横幅 PNG 以及 **原始源文件** 下载，满足专业收藏需求。
 - **4K 动态封面**：若该项目支持动态效果，您可以直接下载 4K 分辨率的 MP4 视频。
+
+> [!提示]
+> **建议**：下载动态封面后，建议导入 CapCut 等视频编辑软件重新导出，可有效避免部分播放器的兼容性问题，确保流畅播放。
+
 - **快速链接**：提供直接的图片 URL，方便分享。
 
 #### 📱 5. 移动端与浏览器建议
