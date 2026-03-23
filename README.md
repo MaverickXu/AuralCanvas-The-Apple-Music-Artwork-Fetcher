@@ -99,9 +99,8 @@ Search by keywords or paste an Apple Music link, choose from static covers, bann
 
 ### 📱 Browser Recommendation
 
-- ✅ **Google Chrome** — Best experience on desktop and mobile
-- ✅ **Quark Browser** — Great alternative for mobile
-- ⚠️ **Safari** — May have issues when downloading animated MP4 files directly due to browser limitations
+- ✅ **Google Chrome** — Recommended for best experience
+- ✅ **Microsoft Edge** — Great alternative
 
 ---
 
@@ -183,9 +182,8 @@ Search by keywords or paste an Apple Music link, choose from static covers, bann
 
 ### 📱 浏览器推荐
 
-- ✅ **Google Chrome** — 桌面端和移动端最佳体验
-- ✅ **夸克浏览器** — 移动端优秀备选
-- ⚠️ **Safari** — 由于浏览器限制，可能无法直接下载动态封面（MP4）
+- ✅ **Google Chrome** — 推荐，获得最佳体验
+- ✅ **Microsoft Edge** — 优秀的替代选择
 
 ---
 
