@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/License-Education Only-green?style=flat-square" alt="License">
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/O5O81QNNWN" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
+
 ---
 
 [English](#english) · [简体中文](#中文)
@@ -81,12 +87,6 @@ United States · United Kingdom · China · Japan · Germany · France · Canada
 
 ---
 
-### 💰 Support
-
-Maintaining AuralCanvas costs money. If you find it helpful, consider supporting via [Ko-fi](https://ko-fi.com/O5O81QNNWN) ☕
-
----
-
 ### 📜 License
 
 For educational purposes only. All music artworks are copyright of Apple Inc. and their respective artists.
@@ -146,12 +146,6 @@ AuralCanvas 是一个免费的在线工具，无需注册即可从 Apple Music �
 - **最佳体验：** Google Chrome（桌面端和移动端）
 - **备选：** 夸克浏览器
 - ⚠️ **Safari** 用户可能无法直接下载动态封面（MP4）
-
----
-
-### 💰 支持我们
-
-维护服务器需要费用。如果觉得好用，欢迎通过 [Ko-fi](https://ko-fi.com/O5O81QNNWN) 支持我们 ☕
 
 ---
 
